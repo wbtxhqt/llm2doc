@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output files
+*.json
+*.docx
+
+# macOS
+.DS_Store
+
+# Environment
+.env
